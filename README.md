@@ -1,9 +1,11 @@
 [![Build Status](https://travis-ci.org/Dauun/calidad-software.svg?branch=master)](https://travis-ci.org/Dauun/calidad-software)
 
-About
+Scripts
 -----
 
     [![Build Status](https://travis-ci.org/Dauun/calidad-software.svg?branch=master)](https://travis-ci.org/Dauun/calidad-software)
+
+.travis.yml
 
     language: php
     sudo: required
