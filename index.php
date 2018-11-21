@@ -21,6 +21,7 @@ $dummy->setCorreo("dauun.said@gmail.com");
 <body>
 <h1>Dummy Example</h1>
 
+    <h4>Prueba</h4>
 <div style="width:960px;">
     <pre>
         <?= $dummy->getNombre() ?>
