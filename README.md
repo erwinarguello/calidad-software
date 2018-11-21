@@ -2,6 +2,9 @@
 
 Configuración Travis CI
 -----
+
+![alt text](https://cdn.travis-ci.com/images/landing-page/build-flow-997ac1c2c80678896968918cdfd8bcea.png "Logo Title Text 1")
+
 :smiley_cat: Estatus de las pruebas
 
     [![Build Status](https://travis-ci.org/Dauun/calidad-software.svg?branch=master)](https://travis-ci.org/Dauun/calidad-software)
