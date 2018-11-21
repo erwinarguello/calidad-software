@@ -21,14 +21,10 @@ Archivo de pruebas
 ------------
 :scream_cat: Scripts de las pruebas
 
-    $consumer = new Consumer();
-
+    $consumer = new Dummy();
     $consumer->setNombre('Said');
-		
-	$consumer->setApellido('Dawn');
-
+    $consumer->setApellido('Dawn');
     $result = $consumer->nombreCompleto();
-
     $this->assertEquals('Said Dawn', $result);
 
 Requerimientos
