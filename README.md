@@ -20,12 +20,3 @@ Requerimientos
 ------------
 
 Requires PHP version 5.3+ if namespaces are desired.
-
-Installation
-------------
-
-Non-Composer Usage
-------------------
-
-Composer Usage
-------------------
