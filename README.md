@@ -16,7 +16,7 @@ Scripts
     before_script: composer install
     script: phpunit --configuration tests/phpunit.xml
     
-Requirements
+Requerimientos
 ------------
 
 Requires PHP version 5.3+ if namespaces are desired.
