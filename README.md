@@ -31,6 +31,11 @@ Deploy
 ------------
 :frog: Agregar deployment step
 
+    heroku login
+    heroku auth:token 
+
+Agregar en .travis.yml
+
     deploy:
     provider: heroku
     api_key:
