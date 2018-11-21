@@ -19,4 +19,4 @@ Scripts
 Requerimientos
 ------------
 
-Requires PHP version 5.3+ if namespaces are desired.
+Requiere PHP versión 5.3+ si se usan namespaces.
